@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ujwal
 - 👀 I’m interested in Java and Spring boot development
-- 🌱 I’m currently learning AWS cloud computing
+- 🌱 I'm AWS Certified Solutions Architect.
 - 💞️ I’m looking to collaborate on Java and Python development
 - 📫 How to reach me ujwalv098@gmail.com
 
