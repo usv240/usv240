@@ -36,7 +36,7 @@
     Cloud automation and optimization projects
 
 📫 Reach me at: ujwalvanjare7@gmail.com
-🌐 Visit my portfolio: ujwalvanjare.com
+🌐 Visit my portfolio: http://ujwalvanjare.com
 <!---
 usv240/usv240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
