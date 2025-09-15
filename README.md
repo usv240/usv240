@@ -11,10 +11,6 @@
     Software Engineer @ NEC Corporation: Led Java-to-SpringBoot microservices migration, boosting operational agility by 35% and mentoring junior developers in cloud and microservices.
     Programmer Analyst Trainee @ Cognizant: Reduced backend processing time by 25% through automation in Java, SpringBoot, and AWS.
 
-📚 Projects:
-
-    Finance Tracker: A full stack cloud-based finance app for real-time expense tracking, built with React, Node.js, and AWS RDS.
-    AWS Cloud-Optimized Website Architecture: Architected a fault-tolerant website using AWS Lambda and CloudFront, improving performance by 40%.
 
 🎓 Education:
 
@@ -35,8 +31,8 @@
     Full stack development with React and Spring Boot
     Cloud automation and optimization projects
 
-📫 Reach me at: ujwalvanjare7@gmail.com
-🌐 Visit my portfolio: http://ujwalvanjare.com
+📫 Reach me at: ujwalv098@gmail.com
+🌐 Visit my portfolio: https://ujwalvanjare.com
 <!---
 usv240/usv240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
