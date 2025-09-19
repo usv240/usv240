@@ -1,4 +1,6 @@
-👋 Hi, I’m Ujwal Suresh Vanjare
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+
+👋 Hi, I’m Ujwal Suresh Vanjare...
 
 👨‍💻 I’m a passionate software engineer specializing in Java, Python, Spring Boot, and cloud technologies like AWS and Oracle Cloud Infrastructure (OCI). I’ve worked in impactful roles at companies like Oracle, Jio Platforms, NEC Corporation, and Cognizant, where I contributed to cloud solutions, API development, and full stack application design.
 
