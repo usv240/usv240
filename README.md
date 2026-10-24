@@ -1,6 +1,6 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
-👋 Hi, I’m Ujwal Suresh Vanjare...
+👋 Hi, I’m Ujwal...
 
 👨‍💻 I’m a passionate software engineer specializing in Java, Python, Spring Boot, and cloud technologies like AWS and Oracle Cloud Infrastructure (OCI). I’ve worked in impactful roles at companies like Oracle, Jio Platforms, NEC Corporation, and Cognizant, where I contributed to cloud solutions, API development, and full stack application design.
 
@@ -32,9 +32,6 @@
     Java and Python development projects
     Full stack development with React and Spring Boot
     Cloud automation and optimization projects
-
-📫 Reach me at: ujwalv098@gmail.com
-🌐 Visit my portfolio: https://ujwalvanjare.com
 <!---
 usv240/usv240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
